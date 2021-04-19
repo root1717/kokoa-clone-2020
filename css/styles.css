@@ -22,6 +22,8 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #2e363e;
   padding-top: 40px;
+  background-image: url(https://cdn.pixabay.com/photo/2016/03/27/07/32/clouds-1282314_1280.jpg);
+  background-size: 500%;
 }
 .main-screen {
   padding: 0px var(--horizontal-space);

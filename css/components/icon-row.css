@@ -23,10 +23,11 @@
 }
 
 .more-suggestions__icon {
-  margin-right: 30px;
   display: flex;
+  width: 100%;
   flex-direction: column;
   align-items: center;
+  justify-content: space-between;
 }
 
 .more-suggestions__icon-image {
